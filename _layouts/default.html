@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- Google Fonts for Source Sans 3 -->
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  
+  <!-- Link to External CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+<body>
+
+  <!-- Navigation Menu Bar -->
+<nav>
+  <ul>
+    <li><a href="{{ site.baseurl }}/">About</a></li>
+    <li><a href="{{ site.baseurl }}/map/">Map</a></li>
+    <li><a href="{{ site.baseurl }}/network/">Network</a></li>
+    <li><a href="{{ site.baseurl }}/events/">Events</a></li>
+  </ul>
+</nav>
+
+  <!-- Main Content Container with Border -->
+  <div class="main-container">
+    <header>
+        {% if page.url != "/" %}
+    <h1>{{ page.title }}</h1>
+  {% endif %}
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+  </div> <!-- End of main-container -->
+
+  <!-- Footer -->
+  <footer>
+    <p>This project was supported by the National Science Foundation's INTERN Program and funding to the Minneapolis-St. Paul LTER, in collaboration with the Minnesota DNR and the USDA Forest Service.</p>
+  </footer>
+
+</body>
+</html>
