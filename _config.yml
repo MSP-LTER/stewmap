@@ -1,5 +1,5 @@
 title: "Stewardship Mapping and Assessment Twin Cities"
-url: "https://MSP-LTER.github.io"  # GitHub Pages URL
+url: "https://msp-lter.github.io"  # GitHub Pages URL
 baseurl: "/mspstewmap"  # Subdirectory path
 markdown: kramdown
 theme: jekyll-theme-minimal  # Optional Jekyll theme
