@@ -53,7 +53,7 @@ layout: default
     Stop by for happy hour and explore results from our 2024 survey to see how your organization fits into the broader Twin Cities tree stewardship community.
   </div>
   <div>
-    <span class="event-highlight">3 PM – 6 PM</span> at
+    <span class="event-highlight">3 PM – 6 PM</span> —
     <span class="event-highlight">Bang Brewing, 2320 Capp Rd, St Paul</span>
   </div>
 </div>
