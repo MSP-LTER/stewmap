@@ -51,8 +51,7 @@ layout: default
   <div class="event-date">Saturday, August 16, 2025</div>
   <div><span class="event-highlight">3 PM – 6 PM</span></div>
   <div>
-    <span class="event-highlight">Bang Brewing</span>
-    (<a href="https://goo.gl/maps/YOUR_LINK_HERE](https://maps.app.goo.gl/Q6T5ffedehSs1aw39" target="_blank">click for directions</a>)
+    <span class="event-highlight">Bang Brewing</span>, 2320 Capp Rd, St Paul, MN 55114
   </div>
 </div>
 
