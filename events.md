@@ -47,24 +47,22 @@ layout: default
   Join us for a series of events to connect with others who care for the urban forest. These informal events are a space for community members, students, researchers, and urban forestry professionals to learn more about the results of our recent Tree Stewardship Survey, discuss upcoming projects, and share ideas about growing more resilient urban forests. We will have drinks and snacks to share. Everyone is welcome-- please stop by! 
 </div>
 
-<p class="event-highlight">Save the date! More details and locations coming soon.</p>
-
 <div class="event-box">
-  <div class="event-date">August 16, 2025</div>
+  <div class="event-date">Saturday, August 16, 2025</div>
   <div>
     <span class="event-highlight">Bang Brewing</span> — <span class="event-highlight">3 PM – 6 PM</span>
   </div>
 </div>
 
 <div class="event-box">
-  <div class="event-date">August 29, 2025</div>
+  <div class="event-date">Friday, August 29, 2025</div>
   <div>
     <span class="event-highlight">Rivoli Bluff Farm and Restoration Site</span> — <span class="event-highlight">8 AM – 9:30 AM</span>
   </div>
 </div>
 
 <div class="event-box">
-  <div class="event-date">September 18, 2025</div>
+  <div class="event-date">Thursday, September 18, 2025</div>
   <div>
     <span class="event-highlight">Eloise Butler Wildflower Garden</span> — <span class="event-highlight">3 PM – 6 PM</span>
   </div>
