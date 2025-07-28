@@ -50,23 +50,23 @@ layout: default
 <p class="event-highlight">Save the date! More details and locations coming soon.</p>
 
 <div class="event-box">
-  <div class="event-date">June 13, 2025</div>
-  <div>
-    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">7:30 AM – 10 AM</span>
-  </div>
-</div>
-
-<div class="event-box">
-  <div class="event-date">July 22, 2025</div>
-  <div>
-    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
-  </div>
-</div>
-
-<div class="event-box">
   <div class="event-date">August 16, 2025</div>
   <div>
-    <span class="event-highlight">Location TBD</span> — <span class="event-highlight">5 PM – 7 PM</span>
+    <span class="event-highlight">Bang Brewing</span> — <span class="event-highlight">3 PM – 6 PM</span>
+  </div>
+</div>
+
+<div class="event-box">
+  <div class="event-date">August 29, 2025</div>
+  <div>
+    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site</span> — <span class="event-highlight">8 AM – 9:30 AM</span>
+  </div>
+</div>
+
+<div class="event-box">
+  <div class="event-date">September 18, 2025</div>
+  <div>
+    <span class="event-highlight">Eloise Butler Wildflower Garden</span> — <span class="event-highlight">3 PM – 6 PM</span>
   </div>
 </div>
 
