@@ -51,21 +51,23 @@ layout: default
   <div class="event-date">Saturday, August 16, 2025</div>
   <div><span class="event-highlight">3 PM – 6 PM</span></div>
   <div>
-    <span class="event-highlight">Bang Brewing</span>, 2320 Capp Rd, St Paul, MN 55114
+    <span class="event-highlight">Bang Brewing</span> — 2320 Capp Rd, St Paul, MN 55114
   </div>
 </div>
 
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
+  <div><span class="event-highlight">8 AM – 9:30 AM</span></div>
   <div>
-    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site</span> — <span class="event-highlight">8 AM – 9:30 AM</span>
+    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site</span> — 749 Arkwright St, St Paul, MN 55130
   </div>
 </div>
 
 <div class="event-box">
   <div class="event-date">Thursday, September 18, 2025</div>
+  <div><span class="event-highlight">3 PM – 6 PM</span></div>
   <div>
-    <span class="event-highlight">Eloise Butler Wildflower Garden</span> — <span class="event-highlight">3 PM – 6 PM</span>
+    <span class="event-highlight">Eloise Butler Wildflower Garden</span> — 1 Theodore Wirth Pkwy, Minneapolis, MN 55405
   </div>
 </div>
 
