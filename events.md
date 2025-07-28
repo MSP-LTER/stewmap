@@ -54,7 +54,7 @@ layout: default
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> at
-    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site, 749 Arkwright St, St Paul, MN 55130</span>
+    <span class="event-highlight">Bang Brewing, 2320 Capp Rd, St Paul</span>
   </div>
 </div>
 
