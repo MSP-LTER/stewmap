@@ -51,9 +51,8 @@ layout: default
   <div class="event-date">Saturday, August 16, 2025</div>
   <div><span class="event-highlight">3 PM – 6 PM</span></div>
   <div>
-    <span class="event-highlight">
-      <a href="https://goo.gl/maps/YOUR_LINK_HERE](https://maps.app.goo.gl/Q6T5ffedehSs1aw39" target="_blank">Bang Brewing (directions)</a>
-    </span>
+    <span class="event-highlight">Bang Brewing</span>
+    (<a href="https://goo.gl/maps/YOUR_LINK_HERE](https://maps.app.goo.gl/Q6T5ffedehSs1aw39" target="_blank">click for directions</a>)
   </div>
 </div>
 
