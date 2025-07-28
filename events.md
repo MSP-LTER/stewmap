@@ -60,9 +60,12 @@ layout: default
 
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
-  <div><span class="event-highlight">8 AM – 9:30 AM</span></div>
   <div>
-    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site</span> — 749 Arkwright St, St Paul, MN 55130
+    Join researchers and fellow tree stewards for coffee and tree care discussion at Urban Roots Farm.
+  </div>
+  <div>
+    <span class="event-highlight">8 AM – 9:30 AM</span> —
+    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site, 749 Arkwright St, St Paul</span>
   </div>
 </div>
 
