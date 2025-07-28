@@ -50,7 +50,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Saturday, August 16, 2025</div>
   <div>
-    Stop by for happy hour and explore results from our 2024 survey to see how your organization fits into the broader Twin Cities tree stewardship community.
+    Stop by for happy hour and learn about how your organization fits into the broader Twin Cities tree stewardship community.
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
@@ -61,7 +61,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
   <div>
-    Join researchers and fellow tree stewards for coffee and tree care discussion at Urban Roots Farm.
+    Join researchers and fellow tree stewards for coffee and discussion at Urban Roots Farm.
   </div>
   <div>
     <span class="event-highlight">8 AM – 9:30 AM</span> —
@@ -71,9 +71,12 @@ layout: default
 
 <div class="event-box">
   <div class="event-date">Thursday, September 18, 2025</div>
-  <div><span class="event-highlight">3 PM – 6 PM</span></div>
   <div>
-    <span class="event-highlight">Eloise Butler Wildflower Garden</span> — 1 Theodore Wirth Pkwy, Minneapolis, MN 55405
+    Enjoy snacks in the garden and explore stewardship survey data, followed by a guided tree walk.
+  </div>
+  <div>
+    <span class="event-highlight">3 PM – 6 PM</span> —
+    <span class="event-highlight">Eloise Butler Wildflower Garden, 1 Theodore Wirth Pkwy, Minneapolis</span>
   </div>
 </div>
 
