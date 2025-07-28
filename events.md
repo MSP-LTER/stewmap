@@ -50,7 +50,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Saturday, August 16, 2025</div>
   <div class="event-description">Stop by for happy hour and explore results from our 2024 survey to see how your organization fits into the broader Twin Cities tree stewardship community.</div>
-  <div><span class="event-highlight">3 PM – 6 PM | Bang Brewing, 2320 Capp Rd, St Paul</span></div>
+  <div><span class="event-highlight">3 PM – 6 PM at Bang Brewing, 2320 Capp Rd, St Paul </span></div>
 
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
