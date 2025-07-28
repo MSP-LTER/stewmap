@@ -61,7 +61,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
   <div>
-    Join researchers and fellow tree stewards for coffee and discussion at Urban Roots Farm.
+    Join us for coffee and discussion at a field site for Urban Roots, a prominant organization in the stewarship network. 
   </div>
   <div>
     <span class="event-highlight">8 AM – 9:30 AM</span> —
