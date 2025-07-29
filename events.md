@@ -50,7 +50,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Saturday, August 16, 2025</div>
   <div>
-    Stop by for happy hour and learn about how your organization fits into the broader Twin Cities tree stewardship community.
+    Stop by for happy hour and learn about the 2024 Tree Stewardship Survey.
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
@@ -61,7 +61,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
   <div>
-    Join us for coffee and discussion at a field site for Urban Roots, a prominant organization in the stewarship network. 
+    Join us for coffee and discussion at a field site for Urban Roots, a local stewardship organization. 
   </div>
   <div>
     <span class="event-highlight">8 AM – 9:30 AM</span> —
