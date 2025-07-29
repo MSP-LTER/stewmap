@@ -72,7 +72,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Thursday, September 18, 2025</div>
   <div>
-    Walk around a Minneapolis stewardship site— Eloise Butler, followed by a guided tree walk.
+    Walk around a Minneapolis stewardship site, Eloise Butler, followed by a guided tree walk.
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
