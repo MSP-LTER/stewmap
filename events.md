@@ -54,7 +54,8 @@ layout: default
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
-    <span class="event-highlight">Bang Brewing, 2320 Capp Rd, St. Paul</span>
+    <span class="event-highlight">Bang Brewing</span> — 
+    <span class="event-highlight">2320 Capp Rd, St. Paul</span>
   </div>
 </div>
 
@@ -65,7 +66,8 @@ layout: default
   </div>
   <div>
     <span class="event-highlight">8 AM – 9:30 AM</span> —
-    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site, 749 Arkwright St, St. Paul</span>
+    <span class="event-highlight">Rivoli Bluff Farm and Restoration Site</span> —
+    <span class="event-highlight">749 Arkwright St, St. Paul</span>
   </div>
 </div>
 
@@ -76,7 +78,8 @@ layout: default
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
-    <span class="event-highlight">Eloise Butler Wildflower Garden, 1 Theodore Wirth Pkwy, Minneapolis</span>
+    <span class="event-highlight">Eloise Butler Wildflower Garden</span> —
+     <span class="event-highlight">1 Theodore Wirth Pkwy, Minneapolis</span>
   </div>
 </div>
 
