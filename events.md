@@ -61,7 +61,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
   <div>
-    Join us for coffee and discussion at a field site for a St. Paul stewardship organization, Urban Roots.
+    Join us for coffee and discussion at the field site for a St. Paul stewardship organization, Urban Roots.
   </div>
   <div>
     <span class="event-highlight">8 AM – 9:30 AM</span> —
@@ -72,7 +72,7 @@ layout: default
 <div class="event-box">
   <div class="event-date">Thursday, September 18, 2025</div>
   <div>
-    Walk around a Minneapolis stewardship site-- Eloise Butler, followed by a guided tree walk.
+    Walk around a Minneapolis stewardship site— Eloise Butler, followed by a guided tree walk.
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
