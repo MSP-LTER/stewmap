@@ -90,5 +90,5 @@ Do you maintain, manage, or advocate for urban trees and forests? Or are you loo
 </div>
 
 <div class="event-subtext">
-  Feel free to email us  with questions or comments at msp-stewmap@umn.edu.
+  Feel free to email Sally Donovan with questions or comments at msp-stewmap@umn.edu.
 </div>
