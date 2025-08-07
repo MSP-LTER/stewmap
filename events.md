@@ -44,9 +44,12 @@ layout: default
 
 <div class="event-header">Tree Stewardship Events</div>
 <div class="event-subtext">
+  <p>
 The Twin Cities Tree Stewardship Mapping Project is part of a broader research initiative taking place in over 24 regions around the world, each exploring the same core question: Who cares for the local environment? In the Twin Cities, we approached this question through the lens of urban trees and forests. Our findings reveal urban tree care is a shared effort: 135 organizations help steward nearly 900 square miles of canopy across the metro. Many of these groups want to connect—to share about recent successes, upcoming projects, and opportunities to seek or offer support.
-
+</p>
+  <p>
 Do you maintain, manage, or advocate for urban trees and forests? Or are you looking to get involved? Join us for a series of informal gatherings where we’ll share survey findings, build connections, and explore how stewardship research can strengthen our collective capacity to care for the urban forest.
+</p>
 
 </div>
 
