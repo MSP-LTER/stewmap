@@ -80,7 +80,7 @@ Do you maintain, manage, or advocate for urban trees and forests? Or are you loo
 <div class="event-box">
   <div class="event-date">Thursday, September 18, 2025</div>
   <div>
-    Talk with us in the garden, followed by a guided tree walk.
+    Talk with us in the garden, followed by a guided tree walk
   </div>
   <div>
     <span class="event-highlight">3 PM – 6 PM</span> —
