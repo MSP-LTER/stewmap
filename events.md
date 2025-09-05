@@ -56,7 +56,7 @@ Do you maintain, manage, or advocate for urban trees and forests? Or are you loo
 <div class="event-box">
   <div class="event-date">Friday, August 29, 2025</div>
   <div>
-    Join researchers and tree stewards for a drink (incl. NA) and wood-fired pizza
+    Meet for coffee at a community garden site created by Urban Roots
   </div>
   <div>
     <span class="event-highlight">8 AM – 9:30 PM</span> —
@@ -68,10 +68,10 @@ Do you maintain, manage, or advocate for urban trees and forests? Or are you loo
 <div class="event-box">
   <div class="event-date">Saturday, September 6, 2025</div>
   <div>
-    Meet for coffee at a community garden site created by Urban Roots
+    Join researchers and tree stewards for a drink (incl. NA) and wood-fired pizza
   </div>
   <div>
-    <span class="event-highlight">4 PM – 7 PM</span> —
+    <span class="event-highlight">3 PM – 6 PM</span> —
     <span class="event-highlight">Bang Brewing</span> —
     <span class="event-highlight">2320 Capp Road, St. Paul</span>
   </div>
