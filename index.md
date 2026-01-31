@@ -1,7 +1,7 @@
 ---
 title: "about"
-seo_title: "Twin Cities Tree Stewardship Mapping Project"
-description: "The Twin Cities Tree Stewardship Mapping Project maps organizations and networks caring for urban trees across Minneapolis–Saint Paul to support equitable urban forestry."
+seo_title: "Sally Donovan | Twin Cities Tree Stewardship Mapping Project"
+description: "The Twin Cities Tree Stewardship Project documents civic environmental stewardship across the Minneapolis–Saint Paul metropolitan region. We map tree care organizations and their social networks to better understand environmental governance and strengthen capacity to respond to future environmental stressors."
 layout: default
 baseurl: "/mspstewmap"
 url: "https://sallydonovan.github.io"
